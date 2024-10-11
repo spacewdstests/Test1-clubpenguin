@@ -1,7 +1,7 @@
 # 2005/2006 Media Server for Slippers
 Before we start, please go clone the slippers repo if you want to make a CPPS.
 You did that? Ok, let's get started.
-All you need to do is use the git clone command
+All you need to do is use the git clone command:
 ```git
 git clone https://github.com/spacewd69/2005
 ```
